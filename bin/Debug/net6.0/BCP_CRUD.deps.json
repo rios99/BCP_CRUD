@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BCP_CRUD/1.0.0": {
+        "runtime": {
+          "BCP_CRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCP_CRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
